@@ -8,3 +8,11 @@
 
 **Link to work:** [Java 2 course](https://java-programming.mooc.fi/) [HTML exercises](https://www.freecodecamp.org/)
 
+
+### Day 2: September 29, 2020
+
+**Today's Progress**: Today, I continued working through the University of Helsinki Java 2 course, before heading back over to free code camp to begin learning CSS. I completed several exercises workign with hashmaps.
+
+**Thoughts:**: Front end development is new for me. I need more practice; I'm looking forward to working on a project after working through the exercises. I feel comfortable with Java but am enjoying sharpening my skills.
+
+**Link to work:** [Java 2 course](https://java-programming.mooc.fi/) [CSS exercises](https://www.freecodecamp.org/)
