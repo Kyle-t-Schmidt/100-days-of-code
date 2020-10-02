@@ -25,3 +25,12 @@
 **Thoughts:**: There is a lot to remember with CSS and I'm a bit confused on when to use different style techniques - variables, inline style elements and CSS style selectors. I'm sure this will become more clear as I continue to learn.
 
 **Link to work:** [CSS exercises](https://www.freecodecamp.org/)
+
+
+### Day 4: October 1, 2020
+
+**Today's Progress**: Today I spent time getting familiar with hashcode() and equals() methods in Java. I only completed a couple of exercises at the University of helsinki Java 2 course because I spent a lot of time reading and watching youtube video to fully understand the methods.
+
+**Thoughts:**: I think I fully understand the methods and how to approach writing equals and hashcode methods.
+
+**Link to work:** [Java 2 course](https://java-programming.mooc.fi/)
