@@ -34,3 +34,12 @@
 **Thoughts:**: I think I fully understand the methods and how to approach writing equals and hashcode methods.
 
 **Link to work:** [Java 2 course](https://java-programming.mooc.fi/)
+
+
+### Day 5: October 2, 2020
+
+**Today's Progress**: I continued working on Java programming in the University of Helsinki Java 2 course.
+
+**Thoughts:**: Today was tough. My 10 month old daughter is sick and had been having an all day-long melt down. I still managed to get programming in while she slept.
+
+**Link to work:** [Java 2 course](https://java-programming.mooc.fi/)
