@@ -43,3 +43,12 @@
 **Thoughts:**: Today was tough. My 10 month old daughter is sick and had been having an all day-long melt down. I still managed to get programming in while she slept.
 
 **Link to work:** [Java 2 course](https://java-programming.mooc.fi/)
+
+
+### Day 6: October 3, 2020
+
+**Today's Progress**: I worked on learning CSS from freecodecamp. I signed up for well paid geek's javascipt course, trying to learn a bit more about HTML and CSS before diving into that.
+
+**Thoughts:**: CSS doesn't seem overly complex, but htere are so many different attributes to know.
+
+**Link to work:** [CSS exercises](https://www.freecodecamp.org/)
