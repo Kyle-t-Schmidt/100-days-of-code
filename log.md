@@ -52,3 +52,12 @@
 **Thoughts:**: CSS doesn't seem overly complex, but htere are so many different attributes to know.
 
 **Link to work:** [CSS exercises](https://www.freecodecamp.org/)
+
+
+### Day 7: October 4, 2020
+
+**Today's Progress**: Today, I started working on a project to build a KNN classifier class in Python using only Numpy. I also continued learning CSS.
+
+**Thoughts:**: I needed a change of pace. I wouldn't say I am bored of CSS, just needed to work on somehting else for a bit.
+
+**Link to work:** [CSS exercises](https://www.freecodecamp.org/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
