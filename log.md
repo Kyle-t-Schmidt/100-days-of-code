@@ -61,3 +61,12 @@
 **Thoughts:**: I needed a change of pace. I wouldn't say I am bored of CSS, just needed to work on somehting else for a bit.
 
 **Link to work:** [CSS exercises](https://www.freecodecamp.org/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 8: October 5, 2020
+
+**Today's Progress**: Continued work on my KNN classifier by adding to the data pre-processing method. Began learning Javascript.
+
+**Thoughts:**: The KNN project is going to take longer than I initially thought.
+
+**Link to work:** [javascript course](https://wellpaidgeek.teachable.com/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
