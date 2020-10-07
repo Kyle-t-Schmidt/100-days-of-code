@@ -70,3 +70,12 @@
 **Thoughts:**: The KNN project is going to take longer than I initially thought.
 
 **Link to work:** [javascript course](https://wellpaidgeek.teachable.com/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 9: October 6, 2020
+
+**Today's Progress**: I added the one-hot encoding functionality to my KNN classifier project. Continued work on learning javascript.
+
+**Thoughts:**: I'm glad I decided to go back and refresh myself on Data Science programming.
+
+**Link to work:** [javascript course](https://wellpaidgeek.teachable.com/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
