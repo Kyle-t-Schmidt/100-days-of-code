@@ -79,3 +79,12 @@
 **Thoughts:**: I'm glad I decided to go back and refresh myself on Data Science programming.
 
 **Link to work:** [javascript course](https://wellpaidgeek.teachable.com/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 10: October 7, 2020
+
+**Today's Progress**: I completed the data preprocessing method of my KNN python project. I also started practicing javascript syntax.
+
+**Thoughts:**: The python project is fun. I;m having to re-learn some of the numpy methods I haven't used in a while.
+
+**Link to work:** [javascript course](https://wellpaidgeek.teachable.com/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
