@@ -88,3 +88,12 @@
 **Thoughts:**: The python project is fun. I;m having to re-learn some of the numpy methods I haven't used in a while.
 
 **Link to work:** [javascript course](https://wellpaidgeek.teachable.com/) [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 11: October 8, 2020
+
+**Today's Progress**: I split the data preprocessing method into two methods: one for the trian data and one for the test data that way I can use the same feature map for one-hot encoding the non-numerical values.
+
+**Thoughts:**: I did not feel like coding today, but I did it anyway!
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
