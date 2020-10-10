@@ -97,3 +97,12 @@
 **Thoughts:**: I did not feel like coding today, but I did it anyway!
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 12: October 9, 2020
+
+**Today's Progress**: I began working on the method to determine the K nearest neighbors using euclidean distance. To determine the nearest neighbors I need to calculate the euclidean distance between each point in a test dataset and each point in a train dataaset. To avoid having huge lists to sort through I am only adding K number of disances to a list then only altering that lsit of 5 if a new disance is less than what is on the list.
+
+**Thoughts:**: I'm feeling good about this project and learning a lot along he way.
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
