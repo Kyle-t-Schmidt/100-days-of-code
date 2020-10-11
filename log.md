@@ -106,3 +106,12 @@
 **Thoughts:**: I'm feeling good about this project and learning a lot along he way.
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 13: October 10, 2020
+
+**Today's Progress**: I continued working on my KNN project.
+
+**Thoughts:**: I'm a bit frustrated, because I'm stuck on a seemingly simple problem. I'll get through it.
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
