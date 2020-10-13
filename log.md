@@ -124,3 +124,12 @@
 **Thoughts:**: I Thought I was going to wrap up this project today but suprise, my program wasn't working as planned. I had to hunt down the source of the problem. I was able to find the issue and I have a plan to fix it.
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 15: October 12, 2020
+
+**Today's Progress**: I am now in the debugging portion of my KNN project. I am very close to having a working product.
+
+**Thoughts:**: Another small hiccup but I will push through. I'm very close to having a working program.
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
