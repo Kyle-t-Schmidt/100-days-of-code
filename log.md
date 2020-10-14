@@ -133,3 +133,12 @@
 **Thoughts:**: Another small hiccup but I will push through. I'm very close to having a working program.
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 16: October 13, 2020
+
+**Today's Progress**: My KNN program works! I finished up de-bugging and finished up the initial coding. The program takes two csv files (a train file and a test file) preprocesses the data and uses KNN classification to predict the test classes. I used only numpy and base python to do this.
+
+**Thoughts:**: I still need to add some notes to the program and I am considering refactoring to make the code more readable.
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
