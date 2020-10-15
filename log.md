@@ -142,3 +142,12 @@
 **Thoughts:**: I still need to add some notes to the program and I am considering refactoring to make the code more readable.
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 17: October 14, 2020
+
+**Today's Progress**: Today I worked on learning more CSS at freecodecamp.
+
+**Thoughts:**: I would like to revisit my KNN program and look into refactoring and possibly trying to speed the program up. Right now I am on vacation visiting family and will be through Saturday so I won't have much time to focus on a bigger project for a bit.
+
+**Link to work:** [CSS exercises](https://www.freecodecamp.org/)
