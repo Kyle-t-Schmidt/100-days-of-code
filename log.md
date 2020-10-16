@@ -151,3 +151,12 @@
 **Thoughts:**: I would like to revisit my KNN program and look into refactoring and possibly trying to speed the program up. Right now I am on vacation visiting family and will be through Saturday so I won't have much time to focus on a bigger project for a bit.
 
 **Link to work:** [CSS exercises](https://www.freecodecamp.org/)
+
+
+### Day 18: October 15, 2020
+
+**Today's Progress**: Today I worked on learning more CSS at freecodecamp.
+
+**Thoughts:**: My interest in CSS is pretty low but I think it would be helpful for understanding fullstack concepts.
+
+**Link to work:** [CSS exercises](https://www.freecodecamp.org/)
