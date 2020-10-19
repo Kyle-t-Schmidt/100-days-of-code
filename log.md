@@ -160,3 +160,30 @@
 **Thoughts:**: My interest in CSS is pretty low but I think it would be helpful for understanding fullstack concepts.
 
 **Link to work:** [CSS exercises](https://www.freecodecamp.org/)
+
+
+### Day 19: October 16, 2020
+
+**Today's Progress**: I finished up the applied visual design section at freecodecamp.
+
+**Thoughts:**: I am on vacation in California and finding it tough to get time to work on my projects. Family comes first!
+
+**Link to work:** [CSS exercises](https://www.freecodecamp.org/)
+
+
+### Day 20: October 17, 2020
+
+**Today's Progress**: Started on the applied accessibility section at freecodecamp.
+
+**Thoughts:**: headed hopme from vacation. Traveling with a ten month old makes it difficult to concentrate on my coding!
+
+**Link to work:** [CSS exercises](https://www.freecodecamp.org/)
+
+
+### Day 21: October 18, 2020
+
+**Today's Progress**: Today I worked on refactoring my KNN project to make the code more readable. I plan to separate out the code into a few classes.
+
+**Thoughts:**: Finally home! Now I can get back to business. The trip was very fun and relaxing. I'm happy with my KNN program so far!
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
