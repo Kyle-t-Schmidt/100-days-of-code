@@ -187,3 +187,12 @@
 **Thoughts:**: Finally home! Now I can get back to business. The trip was very fun and relaxing. I'm happy with my KNN program so far!
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 22: October 19, 2020
+
+**Today's Progress**: Today I continued refactoring my KNN program. I can see the end of this project coming soon.
+
+**Thoughts:**: This project has taken longer than expected. looking forward to my next project.
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
