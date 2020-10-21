@@ -196,3 +196,12 @@
 **Thoughts:**: This project has taken longer than expected. looking forward to my next project.
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 23: October 20, 2020
+
+**Today's Progress**: I finished refactoring and linting my KNN program. I'm going to call this project complete for now. I still need to update the readMe file.
+
+**Thoughts:**: happy to be done with this project. now I need to decide what to work on next.
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
