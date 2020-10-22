@@ -205,3 +205,12 @@
 **Thoughts:**: happy to be done with this project. now I need to decide what to work on next.
 
 **Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+
+
+### Day 24: October 21, 2020
+
+**Today's Progress**: I updated my ReadMe file on my KNN project then went over to udemy where I'm brushing up on Machine Learning.
+
+**Thoughts:**: My Data Analytics program was mostly focused on Statisitcs. It'll be nice to get some more in depth applied machine learning under my belt.
+
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
