@@ -213,4 +213,13 @@
 
 **Thoughts:**: My Data Analytics program was mostly focused on Statisitcs. It'll be nice to get some more in depth applied machine learning under my belt.
 
-**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/)
+**Link to work:** [KNN Project](https://github.com/Kyle-t-Schmidt/KNN-From-Scratch/), [Udemy](https://www.udemy.com/)
+
+
+### Day 25: October 22, 2020
+
+**Today's Progress**: Today, in addition to my day-job writing Python, I spent some time learning more about Javascript. 
+
+**Thoughts:**: Although I dont think I will ever really use javascript, it will be useful for understanding JSON and JS interacts with other products.
+
+**Link to work:** [javascript course](https://wellpaidgeek.teachable.com/)
