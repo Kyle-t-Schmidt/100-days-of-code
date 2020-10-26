@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 1: October 25, 2020
+
+**Today's Progress**: Today I worked on a Machine learning course on Udemy.
+
+**Thoughts:**: Well, yesterday I didn't get any coding in. I chose sleep over coding after a day outdoors. I'll get it this timne!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+## --- First attempt log below this point---
+
 ### Day 1: September 28, 2020
 
 **Today's Progress**: First I had to refresh myself on how to use git from the command line to update this log in github. Next I completed the "Basic HTML and HTML5" exercises on freeCodeCamp.org. For a change of pace I went over to www.mooc.fi to continue sharpening my Java skills.
