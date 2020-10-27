@@ -9,6 +9,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 2: October 26, 2020
+
+**Today's Progress**: Today I worked on a Machine learning course on Udemy.
+
+**Thoughts:**: So far this course has been all review for me. I'm a bit worried if I don't keep up practicing stats/data science, I'll forget everything!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
