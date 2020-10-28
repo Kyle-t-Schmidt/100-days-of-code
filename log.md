@@ -18,6 +18,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 3: October 27, 2020
+
+**Today's Progress**: Today I continued the Machine learning course on Udemy. The topics were Matplotlib and Seaborn.
+
+**Thoughts:**: I've never used seaborn before. It makes the normal visuals that I would produce when exploring data much easier.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
