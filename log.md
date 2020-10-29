@@ -27,6 +27,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 4: October 28, 2020
+
+**Today's Progress**: Today I continued the Machine learning course on Udemy. The topics were correlation, covariance and conditional probability.
+
+**Thoughts:**: This is all review, but I'm happy to get a quick refresher.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
