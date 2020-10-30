@@ -36,6 +36,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 5: October 29, 2020
+
+**Today's Progress**: Today I continued the Machine learning course on Udemy. The topics were Bayes theory, simple linear regression and polynomial regression.
+
+**Thoughts:**: I learned how to do all of this in R, now I'm learning in Python.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
