@@ -54,6 +54,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 7: October 30, 2020
+
+**Today's Progress**: Today I continued the Machine learning course on Udemy. Today's topic was Naive Bayes.
+
+**Thoughts:**: I don't remeber ever learning Naive Bayes so this was a good topic!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
