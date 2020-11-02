@@ -65,9 +65,9 @@
 
 ### Day 8: November 1, 2020
 
-**Today's Progress**: Today I continued the Machine learning course on Udemy. Today's topics were K-means classifiers, decision trees and randome forests.
+**Today's Progress**: Today I continued the Machine learning course on Udemy. Today's topics were K-means classifiers, decision trees and random forests.
 
-**Thoughts:**: I don't remeber ever learning Naive Bayes so this was a good topic!
+**Thoughts:**: All review but a good refresher!
 
 **Link to work:** [Udemy](https://www.udemy.com/)
 
