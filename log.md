@@ -72,6 +72,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 9: November 2, 2020
+
+**Today's Progress**: Today I continued the Machine learning course on Udemy. Today's topics were XGboost and SVM's.
+
+**Thoughts:**: Once again this is all review. I'm still enjoying the refresher.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
