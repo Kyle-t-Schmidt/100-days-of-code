@@ -81,6 +81,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 10: November 3, 2020
+
+**Today's Progress**: Today I continued the Machine learning course on Udemy. Today's topic was recommender systems.
+
+**Thoughts:**: Finally, something new for me!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
