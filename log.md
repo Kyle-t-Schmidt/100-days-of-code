@@ -90,6 +90,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 11: November 4, 2020
+
+**Today's Progress**: I finished up the recommender system portion of the Machine learning course on Udemy and moved on to the KNN portion.
+
+**Thoughts:**: I need to sharpen my NumPy skills!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
