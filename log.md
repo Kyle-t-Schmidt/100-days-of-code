@@ -99,6 +99,16 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 12: November 5, 2020
+
+**Today's Progress**: Today I finished up the K nearest neighbors and principal component Analysis lessons.
+
+**Thoughts:**: I remeber doing PCA the hard way - calculating eigenvectors by hand. It's much easier with SKLearn.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
