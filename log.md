@@ -108,6 +108,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 13: November 6, 2020
+
+**Today's Progress**: Today I explored a new topic for me: reinforcement learning.
+
+**Thoughts:**: Interesting topic and one I definitely need to explore more to fully understand.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 ## --- First attempt log below this point---
 
