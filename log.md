@@ -117,6 +117,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 14: November 7, 2020
+
+**Today's Progress**: Today I reviewed bias/variance tradeoff and K-fold cross validation using sklearn.
+
+**Thoughts:**: All review topics for me today!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
