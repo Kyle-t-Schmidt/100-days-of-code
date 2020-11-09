@@ -126,6 +126,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 15: November 8, 2020
+
+**Today's Progress**: Today's topic was data cleaning.
+
+**Thoughts:**: A very boring topic but probably one of the most important things that I do at work!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
