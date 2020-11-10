@@ -135,6 +135,16 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 16: November 9, 2020
+
+**Today's Progress**: Today's topics were feature engineering and data imputation.
+
+**Thoughts:**: All review topics. Feature engineering is one of the more fun parts of machine learning in my opinion.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
