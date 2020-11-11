@@ -144,6 +144,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 17: November 10, 2020
+
+**Today's Progress**: Today's topics were unbalanced data and various feature engineering topics. Next up I'm going to practice using spark.
+
+**Thoughts:**: All review topics. I'm a bit rusty at spark so I'm looking forward to this portion of the udemy course.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 
 ## --- First attempt log below this point---
 
