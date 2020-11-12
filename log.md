@@ -153,6 +153,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 18: November 11, 2020
+
+**Today's Progress**: Today I started the spark (pyspark to be exact) portion of the udemy machine learning course. It has been over a year since I last used spark so this will be a good refresher.
+
+**Thoughts:**: I need to add spark to my list of topics to deep dive.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 ## --- First attempt log below this point---
 
