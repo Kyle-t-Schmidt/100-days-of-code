@@ -162,6 +162,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 19: November 11, 2020
+
+**Today's Progress**: I continued working on my spark refresher.
+
+**Thoughts:**: I'm having trouble with how I set up my environment. I need to fix that!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
