@@ -162,11 +162,20 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
-### Day 19: November 11, 2020
+### Day 19: November 12, 2020
 
 **Today's Progress**: I continued working on my spark refresher.
 
 **Thoughts:**: I'm having trouble with how I set up my environment. I need to fix that!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+### Day 20: November 13, 2020
+
+**Today's Progress**: I figured out the problem with my environment I was having yesterday. Truns out spark runs on Python2, rather than 3 so the necessary packeges were not installed on the correct Python environment. I continued my Spark learning with K-means clustering in Spark.
+
+**Thoughts:**: I'm my next Udemy course I buy may just be a spark course.
 
 **Link to work:** [Udemy](https://www.udemy.com/)
 
