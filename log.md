@@ -180,6 +180,17 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 21: November 14, 2020
+
+**Today's Progress**: Today I finished up the Spark portion of the Machine Learning refresher course. Today's topic was building a basic search engine using TF/IDF.
+
+**Thoughts:**: I definitely need to take a spark course. So much has changed since I first learned how to use it.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
