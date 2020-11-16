@@ -189,6 +189,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 22: November 15, 2020
+
+**Today's Progress**: Today I learned about deploying machine learning algorithms and got a quick refrsher on A/B testing.
+
+**Thoughts:**: It as good to see some examples of how an algorithm can be deployed in the real world. The stats stuff was all review.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 
 ## --- First attempt log below this point---
