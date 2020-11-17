@@ -198,6 +198,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 23: November 16, 2020
+
+**Today's Progress**: Today I finished up the A/B testing portion of the Udemy Machine Learning class. 
+
+**Thoughts:**: Most of it was pretty hgih level statistical concepts. Really looking forward to the next section of the course: deep learning.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 ## --- First attempt log below this point---
 
