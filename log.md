@@ -207,6 +207,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 24: November 17, 2020
+
+**Today's Progress**: Today I worked on neural networks using tensorflow.
+
+**Thoughts:**: Very interesting stuff. I have created neural networks before, but didn't really understand fully how they worked. I feel that I have a better understanding now.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
