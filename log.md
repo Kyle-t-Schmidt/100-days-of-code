@@ -216,6 +216,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 25: November 18, 2020
+
+**Today's Progress**: Today I continued working on neural networks using tensorflow.
+
+**Thoughts:**: in the past I used Keras (a higher level api). I'm enjoying seeing all the lower level work that goes into a neural network.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
