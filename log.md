@@ -225,6 +225,17 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 26: November 19, 2020
+
+**Today's Progress**: Today I worked with Neural Networks using Keras.
+
+**Thoughts:**: Keras is easy to use!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
