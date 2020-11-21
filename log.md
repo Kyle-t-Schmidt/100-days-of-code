@@ -234,6 +234,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 27: November 20, 2020
+
+**Today's Progress**: Today I continued exploring implementing artificial neural networks using keras.
+
+**Thoughts:**: Keras is easy to use!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 
 ## --- First attempt log below this point---
