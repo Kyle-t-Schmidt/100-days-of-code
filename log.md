@@ -243,6 +243,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 28: November 21, 2020
+
+**Today's Progress**: Today I started learning convolutional neural networks.
+
+**Thoughts:**: Intersesting! this is my first time learning CNNs.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 ## --- First attempt log below this point---
 
