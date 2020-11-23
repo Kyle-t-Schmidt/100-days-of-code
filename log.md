@@ -252,6 +252,16 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 29: November 2, 2020
+
+**Today's Progress**: I continued learning convolutional neural networks and implemented a CNN using Keras.
+
+**Thoughts:**: A fun method to add to my toolbox.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
