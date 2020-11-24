@@ -252,7 +252,7 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
-### Day 29: November 2, 2020
+### Day 29: November 22, 2020
 
 **Today's Progress**: I continued learning convolutional neural networks and implemented a CNN using Keras.
 
@@ -260,6 +260,14 @@
 
 **Link to work:** [Udemy](https://www.udemy.com/)
 
+
+### Day 30: November 23, 2020
+
+**Today's Progress**: Today I started learning about recurrent neural networks.
+
+**Thoughts:**: RNN's are new to me. I'm a bit confused by what exactly it's doing. I need to research more and find some more materials on the topic.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
 
 
 ## --- First attempt log below this point---
