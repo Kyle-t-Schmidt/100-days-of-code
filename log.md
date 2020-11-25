@@ -270,6 +270,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 31: November 24, 2020
+
+**Today's Progress**: Today I learned about Transfer Learning: using pre-trained models rather than training my own model.
+
+**Thoughts:**: It feels like cheating but I can see how this would be useful.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
