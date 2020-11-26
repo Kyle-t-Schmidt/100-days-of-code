@@ -288,6 +288,16 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 33: November 26, 2020
+
+**Today's Progress**: Today I continued exploring hyperparameter tuning in neural networks.
+
+**Thoughts:**: Happy Thanksgiving! Almost done with the Udemy machine learning course!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
