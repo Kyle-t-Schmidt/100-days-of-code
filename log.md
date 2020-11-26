@@ -279,6 +279,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 32: November 25, 2020
+
+**Today's Progress**: Today I dove a little deeper into hyperparameter tuning on neural network models.
+
+**Thoughts:**: The hyperparameter tuning feels very intuitive. I have to work on coding early tomorrow so I can spend thanksgiving with my family.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
