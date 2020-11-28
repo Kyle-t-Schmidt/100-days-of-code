@@ -290,11 +290,21 @@
 
 ### Day 33: November 26, 2020
 
-**Today's Progress**: Today I continued exploring hyperparameter tuning in neural networks.
+**Today's Progress**: Today I continued exploring hyperparameter tuning in neural networks and looked into the ethics of machine learning.
 
 **Thoughts:**: Happy Thanksgiving! Almost done with the Udemy machine learning course!
 
 **Link to work:** [Udemy](https://www.udemy.com/)
+
+
+### Day 34: November 27, 2020
+
+**Today's Progress**: Today I finished the Udemy Machine Learning course and started a MySQL course to brush up on using SQL.
+
+**Thoughts:**: Thge course was pretty good, looking forward to learning more.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 
 
