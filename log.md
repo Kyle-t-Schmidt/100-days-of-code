@@ -306,6 +306,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 35: November 28, 2020
+
+**Today's Progress**: Today I continued working on the Udemy MySQL course. I set up a virtual MySQL environment and went over a few basic commands.
+
+**Thoughts:**: I was not feeling well but still managed to get some learning in.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 
 ## --- First attempt log below this point---
