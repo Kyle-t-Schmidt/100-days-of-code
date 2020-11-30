@@ -315,6 +315,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 36: November 29, 2020
+
+**Today's Progress**: I continued working on the Udemy MySQL course. Today's topics were schemas and data types.
+
+**Thoughts:**: I'm pretty good with SQL but I have gotten lazy lately - using the SQL builder in Toad to write my SQL for me. I needed a refresher.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 ## --- First attempt log below this point---
 
