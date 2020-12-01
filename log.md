@@ -324,6 +324,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 37: November 30, 2020
+
+**Today's Progress**: I continued working on the Udemy MySQL course. Today I learned more about manipulating databases and tables via the command line interface.
+
+**Thoughts:**: This has all been review, but it's soetimes good to re-learn the basics.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
