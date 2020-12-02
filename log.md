@@ -4,7 +4,7 @@
 
 **Today's Progress**: Today I worked on a Machine learning course on Udemy.
 
-**Thoughts:**: Well, yesterday I didn't get any coding in. I chose sleep over coding after a day outdoors. I'll get it this timne!
+**Thoughts:**: Well, yesterday I didn't get any coding in. I chose sleep over coding after a day outdoors. I'll get it this time!
 
 **Link to work:** [Udemy](https://www.udemy.com/)
 
@@ -331,6 +331,17 @@
 **Thoughts:**: This has all been review, but it's soetimes good to re-learn the basics.
 
 **Link to work:** [Udemy](https://www.udemy.com/)
+
+
+### Day 38: December 1, 2020
+
+**Today's Progress**: It may not technichally be considered "coding" (although I did write a very small SQL query) but I spent time today learning how to use Azure ML. I made a simple logistic regression model using the tool.
+
+**Thoughts:**: I recently applied for a position that specifically mentions they use Azure, so I thought I'd better see what it's all about.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 
 
 ## --- First attempt log below this point---
