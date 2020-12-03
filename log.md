@@ -342,6 +342,13 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 39: December 2, 2020
+
+**Today's Progress**: Today I continued learning Azure ML. once I got tired of that I switched over to the MySQL course and continued that.
+
+**Thoughts:**: Azure is simple to use, but not very fun. There is something enjoyable about writing code that I don't get from the drag-and-drop tools.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
 
 
 ## --- First attempt log below this point---
