@@ -351,6 +351,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 40: December 3, 2020
+
+**Today's Progress**: Today I continued going through a mySQL course from Udemy. Todays topics were null values, warnings and defualt values.
+
+**Thoughts:**: All of this is review.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
