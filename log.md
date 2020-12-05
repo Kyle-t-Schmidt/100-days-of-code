@@ -360,6 +360,17 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 41: December 4, 2020
+
+**Today's Progress**: Today I worked on learning more Azure ML and MySQL. Todays topics were various classification problem machine learning methods (Azure) and CRUD commands (MySQL).
+
+**Thoughts:**: All interesting stuff and all review!
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
+
 ## --- First attempt log below this point---
 
 ### Day 1: September 28, 2020
