@@ -369,6 +369,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 42: December 5, 2020
+
+**Today's Progress**: I did several numpy and pandas exercises to refresh myself on all their features. I also continued learning about CRUD commands in the Udemy MySQL course.
+
+**Thoughts:**: Today's topics were all review. 
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 
 ## --- First attempt log below this point---
