@@ -378,6 +378,16 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 43: December 6, 2020
+
+**Today's Progress**: Today I finished up the CRUD SQL videos as well as all the exercises from the MySQL Udemy course.
+
+**Thoughts:**: Today's topics were all review. 
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
 
 ## --- First attempt log below this point---
 
