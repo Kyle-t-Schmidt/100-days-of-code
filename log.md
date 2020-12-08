@@ -387,6 +387,14 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 44: December 7, 2020
+
+**Today's Progress**: Continuing with the my SQL course from Udemy, I started the section on string functions. Also at work today I worked on adapting some python code that someone else wrote to perform and combine data from a couple different sources.
+
+**Thoughts:**: Today's topics were all review. 
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
 
 
 ## --- First attempt log below this point---
