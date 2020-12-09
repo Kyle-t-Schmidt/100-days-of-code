@@ -396,6 +396,16 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 45: December 8, 2020
+
+**Today's Progress**: Today I continued learning about SQL string functions. I also spent time learning how to automate hyperparameter tuning using Azure ML.
+
+**Thoughts:**: All the SQL topics were review. Hyperparameter tuning in Azure is new and looks very useful.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
 
 ## --- First attempt log below this point---
 
