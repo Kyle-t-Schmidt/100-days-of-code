@@ -405,6 +405,15 @@
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 46: December 9, 2020
+
+**Today's Progress**: Taking a brief break from my Udemy courses I decided to 
+Start a Classification project using the [Dermatology Data Set](https://archive.ics.uci.edu/ml/datasets/Dermatology).
+
+**Thoughts:**: It's an interesting data set, with most of the fields being ordinal. Initial accuracy results from test models are promising!
+
+**Link to work:** [diagnosis of erythemato-squamous diseases](https://github.com/Kyle-t-Schmidt/Dermatology)
+
 
 
 ## --- First attempt log below this point---
