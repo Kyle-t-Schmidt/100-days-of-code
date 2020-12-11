@@ -415,6 +415,16 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 **Link to work:** [diagnosis of erythemato-squamous diseases](https://github.com/Kyle-t-Schmidt/Dermatology)
 
 
+### Day 47: December 10, 2020
+
+**Today's Progress**: The dermatology project ended up being a short one. The data was very clean and models made very accurate results. Naive Bayes and Random forests ended up having very accurate results. I started another, more open ended project today using article titles and the amount of interactions they get. I also worked a little bit on the Udemy MySQL course.
+
+**Thoughts:**: Very motivated today!
+
+**Link to work:** [diagnosis of erythemato-squamous diseases](https://github.com/Kyle-t-Schmidt/Dermatology), [Articles](https://github.com/Kyle-t-Schmidt/Articles), [Udemy](https://www.udemy.com/)
+
+
+
 
 ## --- First attempt log below this point---
 
