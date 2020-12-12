@@ -424,6 +424,14 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 **Link to work:** [diagnosis of erythemato-squamous diseases](https://github.com/Kyle-t-Schmidt/Dermatology), [Articles](https://github.com/Kyle-t-Schmidt/Articles), [Udemy](https://www.udemy.com/)
 
 
+### Day 48: December 11, 2020
+
+**Today's Progress**: Today I continued working on my article titles project. The data is now prepped. I also continued the Udemy MySQL course.
+
+**Thoughts:**: I got a lot done today.
+
+**Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles), [Udemy](https://www.udemy.com/)
+
 
 
 ## --- First attempt log below this point---
