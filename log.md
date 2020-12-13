@@ -433,6 +433,16 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 **Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles), [Udemy](https://www.udemy.com/)
 
 
+### Day 49: December 12, 2020
+
+**Today's Progress**: Today I worked on the MySQL course on Udemy.
+
+**Thoughts:**: Today was spent celebrating my daughter's first birthday so I didn't get to work on my articles project.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
+
 
 ## --- First attempt log below this point---
 
