@@ -442,6 +442,15 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 50: December 13, 2020
+
+**Today's Progress**: Today I continued working on the MySQL course on Udemy.
+
+**Thoughts:**: Today was another hectic day. Barely found the time to work on anything.
+
+**Link to work:** [Udemy](https://www.udemy.com/)
+
+
 
 
 ## --- First attempt log below this point---
