@@ -451,6 +451,15 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 **Link to work:** [Udemy](https://www.udemy.com/)
 
 
+### Day 51: December 14, 2020
+
+**Today's Progress**: Today I worked on my article titles project. I was testing if I could predict how much interaction a news article would receive based on the words used in the title. I fit several models and the best RMSE I acomplished was ~400, which in the scale of this project is very poor.
+
+**Thoughts:**: I am going to try a few for things before calling this project complete: accounting for zero-inflation, accounting for high leverage observations and I may try binning and trying classification rather than regression.
+
+**Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles)
+
+
 
 
 ## --- First attempt log below this point---
