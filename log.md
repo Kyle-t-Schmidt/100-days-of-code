@@ -480,7 +480,7 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 
 ### Day 54: December 17, 2020
 
-**Today's Progress**: Today I spent time workeing on my Articles project. I am working on exploring ways to my regression algorithms work a bit better.
+**Today's Progress**: Today I spent time working on my Articles project. I am working on exploring ways to my regression algorithms work a bit better.
 
 **Thoughts:**: I should have done the EDA first, but I jumped the gun a little bit.
 
