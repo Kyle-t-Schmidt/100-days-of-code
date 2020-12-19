@@ -487,6 +487,15 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 **Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles)
 
 
+### Day 55: December 18, 2020
+
+**Today's Progress**: I got the opportunity to work on my article titles project a bit more. My target variable has a lot of zeros which leads me to think that a zero-inflation poisson or negative binomial model would be best but I am struggling to get a good fit with either model. I am next going to see if I can use some of the other features in the dataset to separate out the "true" zeros.
+
+**Thoughts:**: This project is turning out to be a bit more difficult that I originally thought.
+
+**Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles)
+
+
 
 
 ## --- First attempt log below this point---
