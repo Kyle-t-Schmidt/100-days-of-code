@@ -523,6 +523,23 @@ Start a Classification project using the [Dermatology Data Set](https://archive.
 **Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles)
 
 
+### Day 59: December 22, 2020
+
+**Today's Progress**: I switched gears a bit today and started reviewing statistics materials. I finally got a Data scientist interview!
+
+**Thoughts:**: I am very excited for my interview early in 2021.
+
+**Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles)
+
+
+### Day 60: December 23, 2020
+
+**Today's Progress**: Today I continued reviewing stats and SQL. This will likely be a recurrung theme until my inteview happens.
+I have a lot of material to cover!
+
+**Link to work:** [Articles](https://github.com/Kyle-t-Schmidt/Articles)
+
+
 
 
 ## --- First attempt log below this point---
